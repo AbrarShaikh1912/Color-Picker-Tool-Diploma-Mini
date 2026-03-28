@@ -9,3 +9,6 @@ The Color Picker Tool is a web-based application that allows users to select and
 a. To implement real-time color selection
 b. To display HEX and RGB values dynamically
 c. To provide clipboard and history features 
+
+
+file:///E:/React/Javascript%20project/index.html
